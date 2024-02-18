@@ -16,8 +16,8 @@ namespace OTECHSOFTWARE.AccountRoles.Models
     {
         public bool succeeded { get; set; }
         public string message { get; set; }
-        public object errors { get; set; }
-        public List<Datum> data { get; set; }
+        public string errors { get; set; }
+        public List<Menu> data { get; set; }
     }
 
 }

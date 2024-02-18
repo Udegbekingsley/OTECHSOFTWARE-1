@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OTECHSOFTWARE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5210f50e9ef36a2d1a265cbe3a16b186f0223e18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OTECHSOFTWARE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OTECHSOFTWARE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

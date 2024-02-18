@@ -11,7 +11,7 @@
     {
         public bool succeeded { get; set; }
         public string message { get; set; }
-        public object errors { get; set; }
+        public List<string> errors { get; set; } 
         public List<Banks> data { get; set; }
     }
 

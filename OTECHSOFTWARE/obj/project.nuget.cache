@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tKkJVcokd0ydDzxSkj1luGs+cE2pc/Y+d+H466o8Z4rKHtmrC68bs4nVXynvDdHurmvJWEi0awRUwqroSnB+Vw==",
+  "dgSpecHash": "YYMhY4sEZYZvQ2mnjZsKudlUQvqGKbLuvwZaLoxzKG/3UUBZI7xlCkBlqwnHQv0OWT0iUFKda8ctx9HJvYNs/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Documents\\Visual Studio 2022\\OTECHSOFTWARE\\OTECHSOFTWARE\\OTECHSOFTWARE.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\OTECHSOFTWARE\\OTECHSOFTWARE\\OTECHSOFTWARE.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
